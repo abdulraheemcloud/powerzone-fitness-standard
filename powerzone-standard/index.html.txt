@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Best Gym in Saravanampatti | PowerZone Fitness</title>
+<link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<nav>
+<div class="container nav-inner">
+<div class="logo">PowerZone Fitness</div>
+<div class="menu">
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="programs.html">Programs</a>
+<a href="contact.html">Contact</a>
+</div>
+</div>
+</nav>
+
+<section class="hero">
+<div class="container">
+<h1>Top Gym in Saravanampatti – Membership from ₹1200</h1>
+<p>Serving IT professionals & students in Saravanampatti. Modern equipment & certified trainers.</p>
+<a href="contact.html" class="btn">Join Now</a>
+</div>
+</section>
+
+<section>
+<div class="container">
+<h2 class="section-title">Why Choose Us</h2>
+<div class="cards">
+<div class="card">Certified Trainers</div>
+<div class="card">Modern Equipment</div>
+<div class="card">Affordable Pricing</div>
+</div>
+</div>
+</section>
+
+<section style="background:#E10600;text-align:center;padding:60px 20px;">
+<h2 style="margin-bottom:20px;">Ready to Start Your Fitness Journey?</h2>
+<a href="contact.html" class="btn" style="background:#000;">Contact Us</a>
+</section>
+
+<footer>
+<div class="container">
+<p><strong>PowerZone Fitness – Saravanampatti</strong></p>
+<p>📍 Saravanampatti, Coimbatore</p>
+<p>📞 +91 99999 99999</p>
+<p>🕒 Mon–Sat: 5AM – 10PM</p>
+<p style="margin-top:15px;color:#555;">© 2026 All Rights Reserved</p>
+</div>
+</footer>
+
+<a href="https://wa.me/919999999999" class="whatsapp-float">💬</a>
+
+</body>
+</html>
