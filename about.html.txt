@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>About PowerZone Fitness | Saravanampatti</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav>
+<div class="container nav-inner">
+<div class="logo">PowerZone Fitness</div>
+<div class="menu">
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="programs.html">Programs</a>
+<a href="contact.html">Contact</a>
+</div>
+</div>
+</nav>
+
+<section>
+<div class="container">
+<h2 class="section-title">About Us</h2>
+<p>PowerZone Fitness is a modern gym located in Saravanampatti focused on weight loss, muscle gain and strength training. Our certified trainers help members achieve real results through personalized programs.</p>
+</div>
+</section>
+
+<footer>
+<div class="container">
+<p>© 2026 PowerZone Fitness</p>
+</div>
+</footer>
+
+<a href="https://wa.me/919999999999" class="whatsapp-float">💬</a>
+
+</body>
+</html>
